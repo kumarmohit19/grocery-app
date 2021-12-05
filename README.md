@@ -146,7 +146,7 @@ Use **Locale** to greet the user on the **welcome** page in their local language
  
 
 **Grocery List without Items**
-![grocery list page](./readme-images/empty_list-groceries_page.png)
+![grocery page without items](./readme-images/empty_list-groceries_page.png)
  
 
 
@@ -154,7 +154,7 @@ Use **Locale** to greet the user on the **welcome** page in their local language
  
 
 **Add Grocery Item**
-![grocery list page](./readme-images/groceriespage.png)
+![grocery page](./readme-images/groceriespage.png)
  
 
 
@@ -172,7 +172,7 @@ Use **Locale** to greet the user on the **welcome** page in their local language
  
 
 **Accessing Admin Rest Endpoint without ADMIN access**
-![grocery list page](./readme-images/accessing_adminpage_without_admin.png)
+![admin page without access page](./readme-images/accessing_adminpage_without_access.png)
  
 
 
@@ -182,6 +182,6 @@ Use **Locale** to greet the user on the **welcome** page in their local language
  
 
 **Accessing Admin Rest Endpoint as ADMIN**
-![grocery list page](./readme-images/accessing_adminpage_as_admin.png)
+![admin access page](./readme-images/accessing_adminpage_as_admin.png)
  
 
